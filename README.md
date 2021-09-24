@@ -16,5 +16,5 @@ Bash script for re-formating of MitoZ feature tables for import into JalView as 
   
 <b>Data</b><br>
 Assembled mitochondrial genomes and the feature annotations are available via GenBank under accession: \<GenBank accessions to be updated\><br>
-Evolutionary trees in Newick format: <i>DataS1</i><br>
-Input data for R scripts: <br>
+Evolutionary trees in Newick format: <i>DataS1/</i><br>
+Input data for R scripts: <i>data/</i><br>
