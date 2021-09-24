@@ -11,10 +11,10 @@ If you use this resource, please cite it as follow:
 R scripts used to generate the article figures: <i>Kalotermitidae_scripts.R</i>
   
 <b>Bash helper scripts</b><br>
-Bash script for re-formating of RASP results prior to import into R: <i>Bash_scripts/reformat_RASP2.sh</i><br>
-Bash script for re-formating of MitoZ feature tables for import into JalView as sequence annotation file: <i>MitoZ_table_to_JalView.sh</i>
+Bash script for re-formating of RASP results prior to import into R:<i>Bash_scripts/reformat_RASP2.sh</i><br>
+Bash script for re-formating of MitoZ feature tables for import into JalView as sequence annotation file: <i>Bash_scripts/MitoZ_table_to_JalView.sh</i>
   
 <b>Data</b><br>
 Assembled mitochondrial genomes and the feature annotations are available via GenBank under accession: \<GenBank accessions to be updated\><br>
-Evolutionary trees in Newick format: <i>DataS1/</i><br>
+Evolutionary trees in Newick format: <i>Data S1/</i><br>
 Input data for R scripts: <i>data/</i><br>
