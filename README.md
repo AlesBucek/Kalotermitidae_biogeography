@@ -3,11 +3,18 @@ An online supplemental material containing input data and scripts used to genera
 
 If you use this resource, please cite it as follow: 
 <b><br>Buček A., Wang M., Šobotník J., Sillam-Dussès D., Mizumoto N., Stiblík P., Clitheroe C., Lu T., González Plaza J. J., Mohagan A., Rafanomezantsoa J. J., Fisher B., Engel M. S., Roisin Y., Evans T. A., Scheffrahn R., Bourguignon T. 
-<br><i>Transoceanic voyages of "drywood" termites (Isoptera: Kalotermitidae) inferred from extant and extinct species</i><b> 
+<br><i>Transoceanic voyages of "drywood" termites (Isoptera: Kalotermitidae) inferred from extant and extinct species</i></b> 
 <br>\<bioRxiv link to be updated\>
 
+# Repository content  
+<b>R scripts</b><br>
+R scripts used to generate the article figures: <i>Kalotermitidae_scripts.R</i>
   
-  # R scripts
+<b>Bash helper scripts</b><br>
+Bash script for re-formating of RASP results prior to import into R: <i>Bash_scripts/reformat_RASP2.sh</i><br>
+Bash script for re-formating of MitoZ feature tables for import into JalView as sequence annotation file: <i>MitoZ_table_to_JalView.sh</i>
   
-  
-  # Bash helper scripts
+<b>Data</b><br>
+Assembled mitochondrial genomes and the feature annotations are available via GenBank under accession: \<GenBank accessions to be updated\><br>
+Evolutionary trees in Newick format: <i>DataS1</i><br>
+Input data for R scripts: <br>
