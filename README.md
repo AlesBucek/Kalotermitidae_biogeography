@@ -4,7 +4,7 @@ An online supplemental material containing input data and scripts used to genera
 If you use this resource, please cite it as follow: 
 <b><br>Buček A., Wang M., Šobotník J., Sillam-Dussès D., Mizumoto N., Stiblík P., Clitheroe C., Lu T., González Plaza J. J., Mohagan A., Rafanomezantsoa J. J., Fisher B., Engel M. S., Roisin Y., Evans T. A., Scheffrahn R., Bourguignon T. 
 <br><i>Transoceanic voyages of drywood termites (Isoptera: Kalotermitidae) inferred from extant and extinct species</i></b> 
-<br>https://biorxiv.org/cgi/content/short/2021.09.24.461667v1
+<br>https://www.biorxiv.org/content/10.1101/2021.09.24.461667v2
 
 # Repository content  
 <b>R scripts</b><br>
