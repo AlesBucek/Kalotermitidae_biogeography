@@ -6,11 +6,11 @@ If you use this resource, please cite it as follows:
 <br><i>Transoceanic voyages of drywood termites (Isoptera: Kalotermitidae) inferred from extant and extinct species</i></b> 
 <br>https://www.biorxiv.org/content/10.1101/2021.09.24.461667v2
 
-# Repository content  
-## R scripts
+
+## 1) R scripts
 1) R scripts used to generate the article figures: <i>Kalotermitidae_scripts.R</i>
   
-## Bash helper scripts
+## 2) Bash helper scripts
 All scripts are in Bash_scripts/ repository folder. IMPORTANT: See comments within scripts for file format and naming requirements. 
 #TODO: add example data
 1) for re-formating of RASP results prior to import into R: <i>reformat_RASP2.sh</i><br>
@@ -23,7 +23,7 @@ All scripts are in Bash_scripts/ repository folder. IMPORTANT: See comments with
 Alignment_to_FeatureTable.sh <feature name> <file with feature alignment block> <file with feature template> <directory with feature tables to be updated> <directory with fasta files of annotated genomes>
 ```
   
-## Data
+## 3) Data
 1) Assembled mitochondrial genomes and the feature annotations are available via GenBank under accession: \<GenBank accessions to be updated\><br>
 2) Evolutionary trees in Newick format: <i>Data S1/</i><br>
 3) Input data for R scripts: <i>data/</i><br>
