@@ -27,3 +27,4 @@ Alignment_to_FeatureTable.sh <feature name> <file with feature alignment block> 
 1) Assembled mitochondrial genomes and the feature annotations are available via GenBank under accession: \<GenBank accessions to be updated\><br>
 2) Evolutionary trees in Newick format: <i>Data S1/</i><br>
 3) Input data for R scripts: <i>data/</i><br>
+4) UCE loci:
