@@ -25,7 +25,7 @@ Alignment_to_FeatureTable.sh <feature name> <file with feature alignment block> 
 ```
   
 ## 3) Data
-1) Assembled mitochondrial genomes and the feature annotations are available via GenBank under accession: \<GenBank accessions to be updated\><br>
+1) Assembled mitochondrial genomes and the feature annotations are available via GenBank under accession: OK506044 to OK506060 and OM991296 to OM991443
 2) Evolutionary trees in Newick format: <i>Data S1/</i><br>
 3) Input data for R scripts: <i>data/</i><br>
-4) UCE loci: \<Dryad database link to be updated\>
+4) UCE loci: https://doi.org/10.5061/dryad.5mkkwh77v
