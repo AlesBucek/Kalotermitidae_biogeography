@@ -33,4 +33,4 @@ Alignment_to_FeatureTable.sh <feature name> <file with feature alignment block> 
 2) Evolutionary trees in Newick format: <i>Data S1/</i><br>
 3) Input data for R scripts: <i>data/</i><br>
 4) UCE loci: https://doi.org/10.5061/dryad.5mkkwh77v
-5) mt genome loci alignments: <i>data/alignments</i><br>
+5) mt genome loci alignments: <i>data/mtLoci_aln.tar.gz</i><br>
